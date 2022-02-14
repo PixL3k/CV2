@@ -32,6 +32,11 @@ h3 {
     text-decoration: underline;
 }
 
+}
+.moutain {
+    position: absolute;
+}
+
 .bottom-cloud {
     position: absolute;
     left: 30%;

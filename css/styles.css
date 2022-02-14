@@ -25,22 +25,20 @@ h3 {
     padding-top: 100px;
     left: auto;
     right: auto;
-
 }
 
 .dev {
     text-decoration: underline;
 }
 
-}
-.moutain {
-    position: absolute;
-}
-
 .bottom-cloud {
     position: absolute;
     left: 30%;
     bottom: 300px;
+}
+.mountain {
+    height: 350px;
+    width: auto;
 }
 
 .top-cloud {
